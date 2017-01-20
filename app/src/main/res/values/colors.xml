@@ -1,0 +1,25 @@
+<resources>
+    <color name="actionbarbackground">#5d4037</color>
+    <color name="myPrimaryDarkColor">#795548</color>
+    <color name="myAccentColor">#90CAF9</color>
+    <color name="FABColor">#66B3F2</color>
+    <color name="FABColorSelected">#90CAF9</color>
+    <color name="myDrawerBackground">#efebe9</color>
+
+    <color name="ProfileBtnColor">#CCCCCC</color>
+    <color name="ProfileBtnColorSelected">#999999</color>
+
+    <color name="myWindowBackground">#a1887f</color>
+
+    <color name="myTextPrimaryColor">#000000</color>
+    <color name="myNavigationColor">#000000</color>
+
+    <!-- General -->
+    <color name="editTextColor">#FFFFFF</color>
+    <color name="editTextColorHint">#CCCCCC</color>
+
+
+    <!-- General -->
+
+    <color name="selection">#8d6e63</color>
+</resources>

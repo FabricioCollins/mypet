@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Fabricio\Desktop\PROJETOS\Android\Demos\Material drawer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="C:\Users\Fabricio\Desktop\PROJETOS\Android\Demos\Material drawer\app\build\intermediates\pre-dexed\debug\classes-01a87cdb4f6e0b9b977d6596005237579a2ed324.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabricio\Desktop\PROJETOS\Android\Demos\Material drawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Fabricio\Desktop\PROJETOS\Android\Demos\Material drawer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-318e020d1ac5f50930e29ad7488e506982eeb392.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabricio\Desktop\PROJETOS\Android\My Pet\MyPetAPP\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Fabricio\Desktop\PROJETOS\Android\My Pet\MyPetAPP\app\build\intermediates\pre-dexed\debug\classes-6275f5ede17d5463eab28f7dbb3f8df5267c8585.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabricio\Desktop\PROJETOS\Android\My Pet\MyPetAPP\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Fabricio\Desktop\PROJETOS\Android\My Pet\MyPetAPP\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-37e0f16e047b5eab82a1076a50b2443f6bb8b17e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabricio\Desktop\PROJETOS\Android\My Pet\MyPetAPP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="C:\Users\Fabricio\Desktop\PROJETOS\Android\My Pet\MyPetAPP\app\build\intermediates\pre-dexed\debug\classes-8a1b6652a09255cfd203c8a3a6276af572ea6a89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabricio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\Fabricio\Desktop\PROJETOS\Android\Demos\Material drawer\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-7d41d54a95c77e609f1146aa4da289c60f57e154.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabricio\Desktop\PROJETOS\Android\Demos\Material drawer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\Fabricio\Desktop\PROJETOS\Android\Demos\Material drawer\app\build\intermediates\pre-dexed\debug\classes-5e9920f659b202ddecf498217b075873c42b671d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabricio\Desktop\PROJETOS\Android\My Pet\MyPetAPP\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\Fabricio\Desktop\PROJETOS\Android\My Pet\MyPetAPP\app\build\intermediates\pre-dexed\debug\classes-e0246138fdb30801fee97e1cbc46fb1a5e706df7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabricio\Desktop\PROJETOS\Android\Demos\Material drawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Fabricio\Desktop\PROJETOS\Android\Demos\Material drawer\app\build\intermediates\pre-dexed\debug\classes-ec0122f818d451064dedb2aa0b02126555b4244e.jar" />
+    </item>
+
+</items>

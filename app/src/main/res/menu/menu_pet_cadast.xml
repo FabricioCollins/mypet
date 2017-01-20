@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dcodepages.material.navigationdrawer.PetCadastActivity">
+
+    <item
+        android:id="@+id/cadast_save"
+        android:icon="@drawable/ic_action_floppy"
+        android:title="Salvar"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/cadast_cancel"
+        android:orderInCategory="1"
+        android:title="@string/cadast_cancel_label"
+        app:showAsAction="never" />
+</menu>
